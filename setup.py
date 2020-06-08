@@ -1,9 +1,9 @@
 from distutils.core import setup
 
 setup(
-    name='phase1',
+    name='phaseme_test',
     version='v1.0dev',
-    packages=['phase1',],
+    packages=['phaseme_test',],
     license='Creative Commons Attribution-Noncommercial-Share Alike license',
     long_description=open('README.txt').read(),
 )
